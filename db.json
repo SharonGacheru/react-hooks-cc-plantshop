@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Boxwood",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.athome.com%2Fboxwood-plant-with-square-black-planter-28%2F124342381.html&psig=AOvVaw06HdPufnaPuiy3IPonY4gj&ust=1756999195872000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjugJzyvI8DFQAAAAAdAAAAABAE",
+      "price": "13.50",
+      "id": 8
+    },
+    {
+      "name": "Calathea",
+      "image": "./image/calathea.jpg",
+      "price": "11.11",
+      "id": 9
+    },
+    {
+      "name": "Calathea",
+      "image": "./images/calathea.jpg",
+      "price": "11.11",
+      "id": 10
     }
   ]
 }
